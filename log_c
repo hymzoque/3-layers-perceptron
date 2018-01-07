@@ -1,0 +1,6 @@
+train-correct : 0.9303272727272728
+
+validation-correct : 0.9328
+
+test-correct : 0.9297
+
